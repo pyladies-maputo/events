@@ -4,7 +4,7 @@
 ### ML Lab #1: 
 * Organizers: Python Mozambique, PyLadies Maputo
 * 1st Online Event: Intro to ML
-* Date:  06/07
+* Date:  09/07
 * Short Description: No primeiro evento online do ML Lab #1, mergulharemos nas bases do Machine Learning. Esta sessão proporcionará uma visão abrangente do que é Machine Learning, seus tipos (supervisionado, não supervisionado, etc.), e como aplicamos esses conceitos na prática. Vamos explorar exemplos reais e realizar uma introdução prática utilizando uma biblioteca popular de Machine Learning em Python. Este evento estabelecerá as bases necessárias para os próximos passos no laboratório.
 
 #### Pre-requisito 
